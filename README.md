@@ -2,8 +2,6 @@
 
 ![review](src/assets/review.gif "Drawing App")
 
-[Demo](https://alekstar79.github.io/ease-visualizer)
-
 ### Installation and use
 
 Clone this repo:
