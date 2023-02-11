@@ -1,6 +1,6 @@
 # Ease Visualizer
 
-![review](src/assets/review.gif "Drawing App")
+![review](src/assets/review.gif "Easy Visualizer")
 
 ### Installation and use
 
